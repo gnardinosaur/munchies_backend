@@ -11,9 +11,9 @@ class Api::V1::OrdersController < ApplicationController
   end
 
   def create
-    user = User.find(params[:userId])
-    newOrder = Order.create(items: params[:items], total: params[:total], user: user)
-    render json: newOrder
+    user = User.find(params[:user])
+    new_order = Order.create(total: params[:total], user: user)
+    render json: new_order
   end
 
 end
