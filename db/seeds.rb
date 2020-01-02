@@ -7,7 +7,7 @@
 # end
 
 
-names = ["lobster", "banana", "cucumber", "steak", "chicken", "trout", "rice", "beans", "orange", "coffee"]
+names = ["lobstah", "banana", "cucumber", "steak", "chicken", "trout", "rice", "beans", "orange", "coffee"]
 
 prices = [12, 0.19, 0.47, 13.99, 7, 14.99, 2.99, 0.99, 0.59, 11]
 
