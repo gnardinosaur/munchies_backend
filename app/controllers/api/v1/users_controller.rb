@@ -21,4 +21,10 @@ class Api::V1::UsersController < ApplicationController
     render json: user
   end
 
+  def order_items
+    user = User.find(params[:id])
+    user_items = user.order_items
+    render json: user_items
+  end
+
 end
