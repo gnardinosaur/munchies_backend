@@ -1,24 +1,14 @@
-# README
+# Munchies
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An exploration of e-commerce functionality.
 
-Things you may want to cover:
+## Where's The Frontend !?-
+There is a React frontend for this project, located in [this](https://github.com/gnardinosaur/munchies_frontend) repo. 
 
-* Ruby version
+## Additional Notes -
+The main goal of this project was to get familiar with React as this was my first project using the library.
 
-* System dependencies
+I originally intended to use data from [Wegman's API](https://www.wegmans.com/) but was unable to receive a key before the project was due so I ended up seeding data.
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
